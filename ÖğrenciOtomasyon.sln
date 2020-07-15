@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ÖğrenciOtomasyon", "ÖğrenciOtomasyon\ÖğrenciOtomasyon.csproj", "{AD5FD67E-00A4-40CE-8CB6-69B93BE8D4F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD5FD67E-00A4-40CE-8CB6-69B93BE8D4F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD5FD67E-00A4-40CE-8CB6-69B93BE8D4F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD5FD67E-00A4-40CE-8CB6-69B93BE8D4F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD5FD67E-00A4-40CE-8CB6-69B93BE8D4F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E0DD829-8969-4DC3-B70E-1E73C4EB7B28}
+	EndGlobalSection
+EndGlobal
