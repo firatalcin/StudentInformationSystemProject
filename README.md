@@ -1,2 +1,2 @@
 # StudentInformationSystemProject
-C#-windowsForm  -- Öğrenci otomanyonu (add-delete-update)
+C#-windowsForm  -- Öğrenci otomasyonu (add-delete-update)
